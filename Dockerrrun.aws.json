@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "docker-react",
+      "Update": "true"
+    },
+    "Ports": [
+      {
+        "ContainerPort": "80"
+      }
+    ]
+}
